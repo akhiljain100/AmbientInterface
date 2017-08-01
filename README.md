@@ -16,6 +16,7 @@ Type 'c' for Discrete mode to all nodes
 Users can also type 'a,2,3', 'b,2' or 'c,2,3' for sending the parameters.(Currently maximum two parameter)
 
 Once the mode execution is started, User can type 's' or 'g'
+  
   's' : User can only switch to other mode by stopping the current mode, and for that user 
         will have to type 's' command, entire system become idle (Both slave and master), 
         it waits for the next instruction.
