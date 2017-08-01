@@ -1,4 +1,4 @@
-# AmbientInterface
+# Ambient Interface
 An interactive sensor application using BRIX2. 
 
 Master/slave model of communication in between brix.
