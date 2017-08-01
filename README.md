@@ -8,6 +8,7 @@ Master will register automatically all the slave node if present. Once the maste
 Open the command line of Center node.
 
 Two different mode execution can be done in each slave (Continuous (LED color: yellow) and discrete (LED color: cyan) mode)
+
 Type 'a' for sending alternate mode to nodes. i.e, Continuous mode to 1 node, Discrete mode to 2nd node and likewise. 
 Type 'b' for Continuous mode to all nodes
 Type 'c' for Discrete mode to all nodes
